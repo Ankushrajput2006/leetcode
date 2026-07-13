@@ -129,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/Ankushrajput2006/leetcode/tree/master/0224-basic-calculator) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Ankushrajput2006/leetcode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
