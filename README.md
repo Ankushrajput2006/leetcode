@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/Ankushrajput2006/leetcode/tree/master/0079-word-search) |
 | [0217-contains-duplicate](https://github.com/Ankushrajput2006/leetcode/tree/master/0217-contains-duplicate) |
+| [0485-max-consecutive-ones](https://github.com/Ankushrajput2006/leetcode/tree/master/0485-max-consecutive-ones) |
 | [1288-remove-covered-intervals](https://github.com/Ankushrajput2006/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Ankushrajput2006/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1929-concatenation-of-array](https://github.com/Ankushrajput2006/leetcode/tree/master/1929-concatenation-of-array) |
