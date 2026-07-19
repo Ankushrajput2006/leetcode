@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/Ankushrajput2006/leetcode/tree/master/0079-word-search) |
 | [0224-basic-calculator](https://github.com/Ankushrajput2006/leetcode/tree/master/0224-basic-calculator) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ankushrajput2006/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Backtracking
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ankushrajput2006/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/Ankushrajput2006/leetcode/tree/master/1969-minimum-non-zero-product-of-the-array-elements) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ankushrajput2006/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Recursion
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/Ankushrajput2006/leetcode/tree/master/0224-basic-calculator) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ankushrajput2006/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Enumeration
 |  |
 | ------- |
@@ -160,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Ankushrajput2006/leetcode/tree/master/1929-concatenation-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ankushrajput2006/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ankushrajput2006/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
