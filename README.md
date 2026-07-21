@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Ankushrajput2006/leetcode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Ankushrajput2006/leetcode/tree/master/0079-word-search) |
 | [0136-single-number](https://github.com/Ankushrajput2006/leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Ankushrajput2006/leetcode/tree/master/0189-rotate-array) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Ankushrajput2006/leetcode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Ankushrajput2006/leetcode/tree/master/0217-contains-duplicate) |
 | [1288-remove-covered-intervals](https://github.com/Ankushrajput2006/leetcode/tree/master/1288-remove-covered-intervals) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ankushrajput2006/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Ankushrajput2006/leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Ankushrajput2006/leetcode/tree/master/0189-rotate-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ankushrajput2006/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ankushrajput2006/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
