@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0178-rank-scores](https://github.com/Ankushrajput2006/leetcode/tree/master/0178-rank-scores) |
 | [0180-consecutive-numbers](https://github.com/Ankushrajput2006/leetcode/tree/master/0180-consecutive-numbers) |
 | [0182-duplicate-emails](https://github.com/Ankushrajput2006/leetcode/tree/master/0182-duplicate-emails) |
+| [0626-exchange-seats](https://github.com/Ankushrajput2006/leetcode/tree/master/0626-exchange-seats) |
 ## Dynamic Programming
 |  |
 | ------- |
