@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Ankushrajput2006/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Ankushrajput2006/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Ankushrajput2006/leetcode/tree/master/0217-contains-duplicate) |
+| [0396-rotate-function](https://github.com/Ankushrajput2006/leetcode/tree/master/0396-rotate-function) |
 | [0485-max-consecutive-ones](https://github.com/Ankushrajput2006/leetcode/tree/master/0485-max-consecutive-ones) |
 | [1260-shift-2d-grid](https://github.com/Ankushrajput2006/leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Ankushrajput2006/leetcode/tree/master/1288-remove-covered-intervals) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/Ankushrajput2006/leetcode/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/Ankushrajput2006/leetcode/tree/master/0224-basic-calculator) |
+| [0396-rotate-function](https://github.com/Ankushrajput2006/leetcode/tree/master/0396-rotate-function) |
 | [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/Ankushrajput2006/leetcode/tree/master/1969-minimum-non-zero-product-of-the-array-elements) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ankushrajput2006/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ankushrajput2006/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0396-rotate-function](https://github.com/Ankushrajput2006/leetcode/tree/master/0396-rotate-function) |
 | [1301-number-of-paths-with-max-score](https://github.com/Ankushrajput2006/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ankushrajput2006/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ankushrajput2006/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
