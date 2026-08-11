@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Ankushrajput2006/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Ankushrajput2006/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Ankushrajput2006/leetcode/tree/master/0217-contains-duplicate) |
+| [0300-longest-increasing-subsequence](https://github.com/Ankushrajput2006/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0396-rotate-function](https://github.com/Ankushrajput2006/leetcode/tree/master/0396-rotate-function) |
 | [0485-max-consecutive-ones](https://github.com/Ankushrajput2006/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Ankushrajput2006/leetcode/tree/master/0486-predict-the-winner) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Ankushrajput2006/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0400-nth-digit](https://github.com/Ankushrajput2006/leetcode/tree/master/0400-nth-digit) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Ankushrajput2006/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ankushrajput2006/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/Ankushrajput2006/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ankushrajput2006/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0300-longest-increasing-subsequence](https://github.com/Ankushrajput2006/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0396-rotate-function](https://github.com/Ankushrajput2006/leetcode/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/Ankushrajput2006/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Ankushrajput2006/leetcode/tree/master/0877-stone-game) |
@@ -296,4 +299,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Ankushrajput2006/leetcode/tree/master/1510-stone-game-iv) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Ankushrajput2006/leetcode/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
