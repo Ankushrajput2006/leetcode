@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Ankushrajput2006/leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Ankushrajput2006/leetcode/tree/master/0062-unique-paths) |
+| [0069-sqrtx](https://github.com/Ankushrajput2006/leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Ankushrajput2006/leetcode/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/Ankushrajput2006/leetcode/tree/master/0224-basic-calculator) |
 | [0396-rotate-function](https://github.com/Ankushrajput2006/leetcode/tree/master/0396-rotate-function) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Ankushrajput2006/leetcode/tree/master/0069-sqrtx) |
 | [0300-longest-increasing-subsequence](https://github.com/Ankushrajput2006/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0400-nth-digit](https://github.com/Ankushrajput2006/leetcode/tree/master/0400-nth-digit) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Ankushrajput2006/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -315,4 +317,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ankushrajput2006/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Ankushrajput2006/leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
