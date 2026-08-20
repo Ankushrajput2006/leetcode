@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/Ankushrajput2006/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ankushrajput2006/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ankushrajput2006/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Ankushrajput2006/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ankushrajput2006/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ankushrajput2006/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Ankushrajput2006/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Ankushrajput2006/leetcode/tree/master/0412-fizz-buzz) |
 | [1260-shift-2d-grid](https://github.com/Ankushrajput2006/leetcode/tree/master/1260-shift-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/Ankushrajput2006/leetcode/tree/master/1929-concatenation-of-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Ankushrajput2006/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ankushrajput2006/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Monotonic Stack
 |  |
