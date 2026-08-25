@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Ankushrajput2006/leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Ankushrajput2006/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Ankushrajput2006/leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [1307-verbal-arithmetic-puzzle](https://github.com/Ankushrajput2006/leetcode/tree/master/1307-verbal-arithmetic-puzzle) |
 | [1386-cinema-seat-allocation](https://github.com/Ankushrajput2006/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Ankushrajput2006/leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ankushrajput2006/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Ankushrajput2006/leetcode/tree/master/0224-basic-calculator) |
 | [0412-fizz-buzz](https://github.com/Ankushrajput2006/leetcode/tree/master/0412-fizz-buzz) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ankushrajput2006/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1307-verbal-arithmetic-puzzle](https://github.com/Ankushrajput2006/leetcode/tree/master/1307-verbal-arithmetic-puzzle) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ankushrajput2006/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ankushrajput2006/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ankushrajput2006/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Ankushrajput2006/leetcode/tree/master/0079-word-search) |
+| [1307-verbal-arithmetic-puzzle](https://github.com/Ankushrajput2006/leetcode/tree/master/1307-verbal-arithmetic-puzzle) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Ankushrajput2006/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Depth-First Search
 |  |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Ankushrajput2006/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ankushrajput2006/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Ankushrajput2006/leetcode/tree/master/0877-stone-game) |
+| [1307-verbal-arithmetic-puzzle](https://github.com/Ankushrajput2006/leetcode/tree/master/1307-verbal-arithmetic-puzzle) |
 | [1406-stone-game-iii](https://github.com/Ankushrajput2006/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Ankushrajput2006/leetcode/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/Ankushrajput2006/leetcode/tree/master/1872-stone-game-viii) |
