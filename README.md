@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Ankushrajput2006/leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Ankushrajput2006/leetcode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Ankushrajput2006/leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Ankushrajput2006/leetcode/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Ankushrajput2006/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Ankushrajput2006/leetcode/tree/master/0069-sqrtx) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Ankushrajput2006/leetcode/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/Ankushrajput2006/leetcode/tree/master/0224-basic-calculator) |
 | [0486-predict-the-winner](https://github.com/Ankushrajput2006/leetcode/tree/master/0486-predict-the-winner) |
 | [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/Ankushrajput2006/leetcode/tree/master/1969-minimum-non-zero-product-of-the-array-elements) |
