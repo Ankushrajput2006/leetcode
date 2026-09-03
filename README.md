@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Ankushrajput2006/leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Ankushrajput2006/leetcode/tree/master/0217-contains-duplicate) |
 | [0300-longest-increasing-subsequence](https://github.com/Ankushrajput2006/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0335-self-crossing](https://github.com/Ankushrajput2006/leetcode/tree/master/0335-self-crossing) |
 | [0396-rotate-function](https://github.com/Ankushrajput2006/leetcode/tree/master/0396-rotate-function) |
 | [0447-number-of-boomerangs](https://github.com/Ankushrajput2006/leetcode/tree/master/0447-number-of-boomerangs) |
 | [0485-max-consecutive-ones](https://github.com/Ankushrajput2006/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Ankushrajput2006/leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Ankushrajput2006/leetcode/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/Ankushrajput2006/leetcode/tree/master/0224-basic-calculator) |
+| [0335-self-crossing](https://github.com/Ankushrajput2006/leetcode/tree/master/0335-self-crossing) |
 | [0396-rotate-function](https://github.com/Ankushrajput2006/leetcode/tree/master/0396-rotate-function) |
 | [0400-nth-digit](https://github.com/Ankushrajput2006/leetcode/tree/master/0400-nth-digit) |
 | [0412-fizz-buzz](https://github.com/Ankushrajput2006/leetcode/tree/master/0412-fizz-buzz) |
@@ -371,4 +373,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Ankushrajput2006/leetcode/tree/master/0069-sqrtx) |
+## Geometry
+|  |
+| ------- |
+| [0335-self-crossing](https://github.com/Ankushrajput2006/leetcode/tree/master/0335-self-crossing) |
 <!---LeetCode Topics End-->
