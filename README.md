@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Ankushrajput2006/leetcode/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/Ankushrajput2006/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ankushrajput2006/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0835-image-overlap](https://github.com/Ankushrajput2006/leetcode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Ankushrajput2006/leetcode/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/Ankushrajput2006/leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Ankushrajput2006/leetcode/tree/master/1288-remove-covered-intervals) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Ankushrajput2006/leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Ankushrajput2006/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Ankushrajput2006/leetcode/tree/master/0079-word-search) |
+| [0835-image-overlap](https://github.com/Ankushrajput2006/leetcode/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/Ankushrajput2006/leetcode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Ankushrajput2006/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Ankushrajput2006/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
