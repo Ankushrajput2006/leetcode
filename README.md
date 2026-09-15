@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/Ankushrajput2006/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ankushrajput2006/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1307-verbal-arithmetic-puzzle](https://github.com/Ankushrajput2006/leetcode/tree/master/1307-verbal-arithmetic-puzzle) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ankushrajput2006/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ankushrajput2006/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ankushrajput2006/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ankushrajput2006/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Ankushrajput2006/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/Ankushrajput2006/leetcode/tree/master/1969-minimum-non-zero-product-of-the-array-elements) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ankushrajput2006/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ankushrajput2006/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ankushrajput2006/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ankushrajput2006/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ankushrajput2006/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Ankushrajput2006/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Ankushrajput2006/leetcode/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/Ankushrajput2006/leetcode/tree/master/1872-stone-game-viii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ankushrajput2006/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ankushrajput2006/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ankushrajput2006/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ankushrajput2006/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Ankushrajput2006/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ankushrajput2006/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/Ankushrajput2006/leetcode/tree/master/0189-rotate-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ankushrajput2006/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ankushrajput2006/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ankushrajput2006/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Ankushrajput2006/leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
