@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Ankushrajput2006/leetcode/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/Ankushrajput2006/leetcode/tree/master/0115-distinct-subsequences) |
 | [0224-basic-calculator](https://github.com/Ankushrajput2006/leetcode/tree/master/0224-basic-calculator) |
+| [0301-remove-invalid-parentheses](https://github.com/Ankushrajput2006/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0412-fizz-buzz](https://github.com/Ankushrajput2006/leetcode/tree/master/0412-fizz-buzz) |
 | [0678-valid-parenthesis-string](https://github.com/Ankushrajput2006/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Ankushrajput2006/leetcode/tree/master/0856-score-of-parentheses) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ankushrajput2006/leetcode/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Ankushrajput2006/leetcode/tree/master/0079-word-search) |
+| [0301-remove-invalid-parentheses](https://github.com/Ankushrajput2006/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Ankushrajput2006/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1307-verbal-arithmetic-puzzle](https://github.com/Ankushrajput2006/leetcode/tree/master/1307-verbal-arithmetic-puzzle) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Ankushrajput2006/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Ankushrajput2006/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Ankushrajput2006/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Ankushrajput2006/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ankushrajput2006/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
