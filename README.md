@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Ankushrajput2006/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/Ankushrajput2006/leetcode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Ankushrajput2006/leetcode/tree/master/0877-stone-game) |
+| [1254-number-of-closed-islands](https://github.com/Ankushrajput2006/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Ankushrajput2006/leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Ankushrajput2006/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Ankushrajput2006/leetcode/tree/master/1301-number-of-paths-with-max-score) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Ankushrajput2006/leetcode/tree/master/0079-word-search) |
+| [1254-number-of-closed-islands](https://github.com/Ankushrajput2006/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Ankushrajput2006/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ankushrajput2006/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ankushrajput2006/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Ankushrajput2006/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Ankushrajput2006/leetcode/tree/master/0079-word-search) |
 | [0835-image-overlap](https://github.com/Ankushrajput2006/leetcode/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/Ankushrajput2006/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Ankushrajput2006/leetcode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Ankushrajput2006/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Ankushrajput2006/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Ankushrajput2006/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Ankushrajput2006/leetcode/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/Ankushrajput2006/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Ankushrajput2006/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ankushrajput2006/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Ankushrajput2006/leetcode/tree/master/2685-count-the-number-of-complete-components) |
@@ -248,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Ankushrajput2006/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [1254-number-of-closed-islands](https://github.com/Ankushrajput2006/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ankushrajput2006/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Ankushrajput2006/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ankushrajput2006/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
