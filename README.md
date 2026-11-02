@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0335-self-crossing](https://github.com/Ankushrajput2006/leetcode/tree/master/0335-self-crossing) |
 | [0396-rotate-function](https://github.com/Ankushrajput2006/leetcode/tree/master/0396-rotate-function) |
 | [0447-number-of-boomerangs](https://github.com/Ankushrajput2006/leetcode/tree/master/0447-number-of-boomerangs) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ankushrajput2006/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/Ankushrajput2006/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Ankushrajput2006/leetcode/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/Ankushrajput2006/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0400-nth-digit](https://github.com/Ankushrajput2006/leetcode/tree/master/0400-nth-digit) |
 | [0412-fizz-buzz](https://github.com/Ankushrajput2006/leetcode/tree/master/0412-fizz-buzz) |
 | [0447-number-of-boomerangs](https://github.com/Ankushrajput2006/leetcode/tree/master/0447-number-of-boomerangs) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ankushrajput2006/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Ankushrajput2006/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ankushrajput2006/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Ankushrajput2006/leetcode/tree/master/0836-rectangle-overlap) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Ankushrajput2006/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Ankushrajput2006/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ankushrajput2006/leetcode/tree/master/0217-contains-duplicate) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ankushrajput2006/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ankushrajput2006/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1096-brace-expansion-ii](https://github.com/Ankushrajput2006/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/Ankushrajput2006/leetcode/tree/master/1288-remove-covered-intervals) |
