@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ankushrajput2006/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ankushrajput2006/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/Ankushrajput2006/leetcode/tree/master/1872-stone-game-viii) |
+| [1882-process-tasks-using-servers](https://github.com/Ankushrajput2006/leetcode/tree/master/1882-process-tasks-using-servers) |
 | [1929-concatenation-of-array](https://github.com/Ankushrajput2006/leetcode/tree/master/1929-concatenation-of-array) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Ankushrajput2006/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ankushrajput2006/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ankushrajput2006/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1882-process-tasks-using-servers](https://github.com/Ankushrajput2006/leetcode/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ankushrajput2006/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ankushrajput2006/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ankushrajput2006/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
